@@ -90,20 +90,26 @@
 	0% {
 		bottom: 0%;
 	}
-	27% {
+	20% {
 		bottom: 0%;
 	}
-	33% {
+	25% {
 		bottom: 100%;
 	}
-	60% {
+	45% {
 		bottom: 100%;
 	}
-	66% {
+	50% {
 		bottom: 200%;
 	}
-	94% {
+	70% {
 		bottom: 200%;
+	}
+	75% {
+		bottom: 300%;
+	}
+	95% {
+		bottom: 300%;
 	}
 	100% {
 		bottom: 0%;
@@ -534,28 +540,28 @@ section {
 	width: 60%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
-	width: 80%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .htmlcss {
+	width: 70%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
-	width: 95%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .go {
+	width: 60%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
 	width: 75%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
+.about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
+	width: 85%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .java {
 	width: 60%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-	width: 87%;
-}
-
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-	width: 70%;
+	width: 99%;
 }
 
 .stat-title {
